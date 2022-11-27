@@ -1,0 +1,15 @@
+C:\Users\eriks\Documents\Desafioc#\bin\Debug\net6.0\Desafioc#.exe
+C:\Users\eriks\Documents\Desafioc#\bin\Debug\net6.0\Desafioc#.deps.json
+C:\Users\eriks\Documents\Desafioc#\bin\Debug\net6.0\Desafioc#.runtimeconfig.json
+C:\Users\eriks\Documents\Desafioc#\bin\Debug\net6.0\Desafioc#.dll
+C:\Users\eriks\Documents\Desafioc#\bin\Debug\net6.0\Desafioc#.pdb
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.csproj.AssemblyReference.cache
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.AssemblyInfoInputs.cache
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.AssemblyInfo.cs
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.dll
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\refint\Desafioc#.dll
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.pdb
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\Desafioc#.genruntimeconfig.cache
+C:\Users\eriks\Documents\Desafioc#\obj\Debug\net6.0\ref\Desafioc#.dll
